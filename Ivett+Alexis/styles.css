@@ -17,22 +17,22 @@ body {
 
 @font-face {
     font-family: 'Elegant';
-    src: url('fuentes/Elegant\ DEMO.otf') format('opentype'), /* Primero el formato más eficiente */
-         url('fuentes/Elegant\ DEMO.ttf') format('truetype');   /* Después un formato soportado ampliamente */
+    src: url('/Ivett+Alexis/fuentes/Elegant\ DEMO.otf') format('opentype'), /* Primero el formato más eficiente */
+         url('/Ivett+Alexis/fuentes/Elegant\ DEMO.ttf') format('truetype');   /* Después un formato soportado ampliamente */
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'BlackSans';
-    src: url('fuentes/BlackerSansPro-Medium.ttf') format('opentype');/* Primero el formato más eficiente */   /* Después un formato soportado ampliamente */
+    src: url('/Ivett+Alexis/fuentes/BlackerSansPro-Medium.ttf') format('opentype');/* Primero el formato más eficiente */   /* Después un formato soportado ampliamente */
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'BlackSansL';
-    src: url('fuentes/BlackerSansPro-Light.ttf') format('opentype');/* Primero el formato más eficiente */   /* Después un formato soportado ampliamente */
+    src: url('/Ivett+Alexis/fuentes/BlackerSansPro-Light.ttf') format('opentype');/* Primero el formato más eficiente */   /* Después un formato soportado ampliamente */
     font-weight: normal;
     font-style: normal;
 }
