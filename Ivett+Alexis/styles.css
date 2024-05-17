@@ -17,8 +17,8 @@ body {
 
 @font-face {
     font-family: 'Elegant';
-    src: url('/Ivett+Alexis/fuentes/Elegant\ DEMO.otf') format('opentype'), /* Primero el formato más eficiente */
-         url('/Ivett+Alexis/fuentes/Elegant\ DEMO.ttf') format('truetype');   /* Después un formato soportado ampliamente */
+    src: url('/Ivett+Alexis/fuentes/Elegant_DEMO.otf') format('opentype'), /* Primero el formato más eficiente */
+         url('/Ivett+Alexis/fuentes/Elegant_DEMO.ttf') format('truetype');   /* Después un formato soportado ampliamente */
     font-weight: normal;
     font-style: normal;
 }
